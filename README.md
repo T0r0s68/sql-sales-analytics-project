@@ -110,26 +110,25 @@ The project was implemented using the following tools:
 
 ## Total Orders
 
-![Total Orders](dashboard/Count_of_order_id.png)
+![Total Orders](sales-sql-analytics-project/dashboard/Count_of_order_id.png)
 
 ---
 
 ## Total Revenue
 
-![Total Revenue](dashboard/Sum_of_revenue.png)
+![Total Revenue](sales-sql-analytics-project/dashboard/Sum_of_revenue.png)
 
 ---
 
 ## Revenue Trend by Month
 
-![Revenue Trend](dashboard/Sum_of_Revenue_by_month.png)
+![Revenue Trend](sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_month.png)
 
 ---
 
 ## Top Products by Revenue
 
-![Top Products](dashboard/Sum_of_Revenue_by_product_name.png)
-
+![Top Products](sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_product_name.png)
 ---
 
 # Database Model
@@ -202,22 +201,24 @@ ORDER BY 1;
 
 sql-sales-analytics-project
 │
-├── sql
-│   ├── 01_create_tables.sql
-│   ├── 02_generate_data.sql
-│   ├── 03_sales_analysis.sql
-│   ├── 04_customer_analysis.sql
-│   ├── 05_product_analysis.sql
-│   ├── 06_cohort_analysis.sql
-│   ├── 07_market_basket.sql
-│   ├── 08_data_warehouse.sql
-│   └── 09_advanced_analysis.sql
-│
-└── dashboard
-    ├── Count_of_order_id.png
-    ├── Sum_of_revenue.png
-    ├── Sum_of_Revenue_by_month.png
-    └── Sum_of_Revenue_by_product_name.png
+└── sales-sql-analytics-project
+    │
+    ├── sql
+    │   ├── 01_create_tables.sql
+    │   ├── 02_generate_data.sql
+    │   ├── 03_sales_analysis.sql
+    │   ├── 04_customer_analysis.sql
+    │   ├── 05_product_analysis.sql
+    │   ├── 06_cohort_analysis.sql
+    │   ├── 07_market_basket.sql
+    │   ├── 08_data_warehouse.sql
+    │   └── 09_advanced_analysis.sql
+    │
+    └── dashboard
+        ├── Count_of_order_id.png
+        ├── Sum_of_revenue.png
+        ├── Sum_of_Revenue_by_month.png
+        └── Sum_of_Revenue_by_product_name.png
 
 ---
 
