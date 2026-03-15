@@ -110,25 +110,25 @@ The project was implemented using the following tools:
 
 ## Total Orders
 
-![Total Orders](sales-sql-analytics-project/dashboard/Count_of_order_id.png)
+![Total Orders](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Count_of_order_id.png)
 
 ---
 
 ## Total Revenue
 
-![Total Revenue](sales-sql-analytics-project/dashboard/Sum_of_revenue.png)
+![Total Revenue](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_revenue.png)
 
 ---
 
 ## Revenue Trend by Month
 
-![Revenue Trend](sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_month.png)
+![Revenue Trend](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_month.png)
 
 ---
 
 ## Top Products by Revenue
 
-![Top Products](sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_product_name.png)
+![Top Products](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_product_name.png)
 ---
 
 # Database Model
@@ -198,7 +198,7 @@ ORDER BY 1;
 ---
 
 # Project Structure
-
+```
 sql-sales-analytics-project
 │
 └── sales-sql-analytics-project
@@ -219,7 +219,7 @@ sql-sales-analytics-project
         ├── Sum_of_revenue.png
         ├── Sum_of_Revenue_by_month.png
         └── Sum_of_Revenue_by_product_name.png
-
+```
 ---
 
 # How to Run the Project
