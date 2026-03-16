@@ -119,6 +119,7 @@ Revenue Trend
 
 ## Top Products by Revenue
 Top Products
+
 ---
 
 # Database Model
