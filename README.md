@@ -109,16 +109,16 @@ The project was implemented using the following tools:
 # Dashboard
 
 ## Total Orders
-![Total Orders](sales-sql-analystics-project/images/total_orders.png)
+Total Orders
 
 ## Total Revenue
-![Total Revenue](sales-sql-analystics-project/images/total_revenue.png)
+Total Revenue
 
-## Revenue Trend
-![Revenue Trend](sales-sql-analystics-project/images/revenue_trend.png)
+## Revenue Trend by Month
+Revenue Trend
 
-## Top Products
-![Top Products](sales-sql-analystics-project/images/top_products.png)
+## Top Products by Revenue
+Top Products
 ---
 
 # Database Model
