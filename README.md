@@ -109,26 +109,16 @@ The project was implemented using the following tools:
 # Dashboard
 
 ## Total Orders
-
-![Total Orders](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Count_of_order_id.png)
-
----
+![Total Orders](sales-sql-analystics-project/images/total_orders.png)
 
 ## Total Revenue
+![Total Revenue](sales-sql-analystics-project/images/total_revenue.png)
 
-![Total Revenue](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_revenue.png)
+## Revenue Trend
+![Revenue Trend](sales-sql-analystics-project/images/revenue_trend.png)
 
----
-
-## Revenue Trend by Month
-
-![Revenue Trend](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_month.png)
-
----
-
-## Top Products by Revenue
-
-![Top Products](https://raw.githubusercontent.com/T0r0s68/sql-sales-analytics-project/main/sales-sql-analytics-project/dashboard/Sum_of_Revenue_by_product_name.png)
+## Top Products
+![Top Products](sales-sql-analystics-project/images/top_products.png)
 ---
 
 # Database Model
